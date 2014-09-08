@@ -1,0 +1,6 @@
+c:\users\uni\documents\visual studio 2013\Projects\Spiel\Spiel\bin\Debug\Spiel.exe.config
+C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\bin\Debug\Spiel.exe
+C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\bin\Debug\Spiel.pdb
+C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\obj\Debug\Spiel.csprojResolveAssemblyReference.cache
+C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\obj\Debug\Spiel.exe
+C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\obj\Debug\Spiel.pdb
