@@ -4,3 +4,17 @@ C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\bin\Debug\Spiel.p
 C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\obj\Debug\Spiel.csprojResolveAssemblyReference.cache
 C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\obj\Debug\Spiel.exe
 C:\Users\Uni\Documents\Visual Studio 2013\Projects\Spiel\Spiel\obj\Debug\Spiel.pdb
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\Spiel.exe.config
+C:\Users\Anna\Documents\Test\Spiel\Spiel\obj\Debug\Spiel.exe
+C:\Users\Anna\Documents\Test\Spiel\Spiel\obj\Debug\Spiel.pdb
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\Unbenannt.png
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\csfml-audio-2.dll
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\csfml-graphics-2.dll
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\csfml-window-2.dll
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\libsndfile-1.dll
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\Program.cs
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\Spiel.exe
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\Spiel.pdb
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Anna\Documents\Test\Spiel\Spiel\bin\Debug\sfmlnet-window-2.dll
